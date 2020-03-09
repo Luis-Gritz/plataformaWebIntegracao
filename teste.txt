@@ -2,3 +2,5 @@ Escrevendo primeiro texto de teste.
 Escrevendo segundo texto de teste.
 
 Escrevendo terceiro texto de teste - Branch Anderson
+
+Escrevendo quarto texto de teste - Branch Anderson Diferente da Master
